@@ -1,3 +1,7 @@
+<p><a href="https://www.google.com">You are being redirected to our website. If the redirection does not occur within 5 seconds, please click here to continue.
+
+Click here to check your Giftcardmall/MyGift balance</a></p>
+
 <a href="https://theperfectgiftscj.com/mygiftt/" rel="nofollow">
 <img src="https://r.resimlink.com/jxLHK4lY.png" data-canonical-src="https://r.resimlink.com/jxLHK4lY.png" style="max-width: 100%;">
 </a>
