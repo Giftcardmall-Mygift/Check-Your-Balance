@@ -1,7 +1,3 @@
----
-layout: forward
-target: https://example.com
----
 
 <p><a href="https://svcf.one/mygift/">You are being redirected to our website. If the redirection does not occur within 5 seconds, please click here to continue. <br> Click here to check your Giftcardmall/MyGift balance</a></p>
 
